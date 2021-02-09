@@ -36,7 +36,7 @@ metode onPause() untuk menjeda atau menyesuaikan operasi yang tidak boleh dilanj
 ### 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝗻𝗲𝗮𝗿 𝗟𝗮𝘆𝗼𝘂𝘁
   
   - [x] 𝗞𝗲𝗿𝗮𝗻𝗴𝗸𝗮
-  <img align="center" src="https://github.com/memorezasabana/LinearLayout_TravelApp/blob/master/AssetApp/Linear%20Layout.png">
+  >>> <img align="center" src="https://github.com/memorezasabana/LinearLayout_TravelApp/blob/master/AssetApp/Linear%20Layout.png">
   
   - [x] 𝗛𝗮𝘀𝗶𝗹
-  <img align="center" src="https://github.com/memorezasabana/LinearLayout_TravelApp/blob/master/AssetApp/halutama.png">
+  >>> <img align="center" src="https://github.com/memorezasabana/LinearLayout_TravelApp/blob/master/AssetApp/halutama.png">
