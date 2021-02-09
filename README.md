@@ -36,7 +36,9 @@ metode onPause() untuk menjeda atau menyesuaikan operasi yang tidak boleh dilanj
 ### 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝗻𝗲𝗮𝗿 𝗟𝗮𝘆𝗼𝘂𝘁
 
 <a href="https://developer.android.com/reference/android/widget/LinearLayout">
-<img align="center" src="https://github.com/memorezasabana/Intent_TravelApp/blob/master/AssetApp/Linear%20Layout.PNG">
-
-<img align="center" src="https://github.com/memorezasabana/Intent_TravelApp/blob/master/AssetApp/halutama.jpg">
+  - [x] 𝗞𝗲𝗿𝗮𝗻𝗴𝗸𝗮
+  <img align="center" src="https://github.com/memorezasabana/Intent_TravelApp/blob/master/AssetApp/Linear%20Layout.PNG">
+  
+  - [x] 𝗛𝗮𝘀𝗶𝗹
+  <img align="center" src="https://github.com/memorezasabana/Intent_TravelApp/blob/master/AssetApp/halutama.jpg">
 </a>
