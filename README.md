@@ -2,7 +2,7 @@
 
 <img align="center" src="https://github.com/memorezasabana/IntentResult-Fragment_TravelApp/blob/master/Asset_IntentRes_Fragment/Video.gif">
 
-### 𝗡𝗧𝗘𝗡𝗧 𝗥𝗘𝗦𝗨𝗟𝗧
+### 𝗜𝗡𝗧𝗘𝗡𝗧 𝗥𝗘𝗦𝗨𝗟𝗧
 
 | 𝗠𝗔𝗧𝗘𝗥𝗜 | 𝗣𝗘𝗡𝗝𝗘𝗟𝗔𝗦𝗔𝗡 |
 |--------|-------------|
