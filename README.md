@@ -2,7 +2,7 @@
 
 <img align="center" src="https://github.com/memorezasabana/IntentResult-Fragment_TravelApp/blob/master/Asset_IntentRes_Fragment/Video.gif">
 
-### ---
+---
 
 ### 𝗜𝗡𝗧𝗘𝗡𝗧 𝗥𝗘𝗦𝗨𝗟𝗧
 
@@ -25,7 +25,7 @@
 𝗼 Halaman Tampil Komentar
 > <img align="center" src="https://github.com/memorezasabana/IntentResult-Fragment_TravelApp/blob/master/Asset_IntentRes_Fragment/4.png"> 
 
-### ---
+---
 
 
 ### 𝗙𝗥𝗔𝗚𝗠𝗘𝗡𝗧
@@ -58,7 +58,8 @@
 𝗼 Halaman Malioboro Siang
 > <img align="center" src="https://github.com/memorezasabana/IntentResult-Fragment_TravelApp/blob/master/Asset_IntentRes_Fragment/7.png"> 
 
- 
+---
+
 ## *Jangan Pernah Berhenti Bermimpi Cita-cita* 
 
 
