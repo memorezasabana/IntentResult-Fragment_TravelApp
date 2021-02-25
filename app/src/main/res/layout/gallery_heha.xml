@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#E7ECEF"
@@ -45,13 +46,17 @@
         android:layout_marginTop="450dp"
         android:src="@drawable/heha6" />
 
-    <ImageView
-        android:id="@+id/komentar"
+    <Button
+        android:id="@+id/btn_komentar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="620dp"
-        android:src="@drawable/komentar" />
+        android:fontFamily="@font/arialroundedmtbold"
+        android:text="Berikan Komentar"
+        android:textColor="#ffff"
+        android:background="@drawable/bg_button"
+        android:backgroundTint="#133C55"/>
 
 </RelativeLayout>
 

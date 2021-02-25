@@ -11,6 +11,7 @@ import android.widget.ImageView;
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
     private ImageView img1;
+    private ImageView btnMalioboro;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -20,6 +21,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         // Untuk memanggil image view supaya bisa diklik dan digunakan untuk intent
         img1 = (ImageView) findViewById(R.id.hehaskyview_btn);
         img1.setOnClickListener(this);
+        btnMalioboro = (ImageView) findViewById(R.id.malioboro_btn);
+        btnMalioboro.setOnClickListener(this);
 
     }
 
@@ -31,6 +34,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         switch (view.getId()) {
             case R.id.hehaskyview_btn:
                 i = new Intent(MainActivity.this, GalleryHeha.class);
+                startActivity(i);
+                break;
+            case R.id.malioboro_btn:
+                i = new Intent(MainActivity.this, MainFragment.class);
                 startActivity(i);
                 break;
         }

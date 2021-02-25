@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -11,8 +12,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:layout_marginTop="150dp"
-        android:layout_marginBottom="30dp"
+        android:layout_marginTop="120dp"
         android:src="@drawable/logoheha" />
 
 
@@ -28,7 +28,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:autofillHints=""
-            android:fontFamily="@font/arialrounded"
+            android:fontFamily="@font/arialroundedmtbold"
             android:gravity="center"
             android:hint="Komentar"
             android:imeOptions="actionDone"
@@ -43,14 +43,32 @@
             android:layout_margin="16dp"
             android:orientation="vertical">
 
-            <ImageView
-                android:id="@+id/kirim"
+            <Button
+                android:id="@+id/btn_kirim"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
-                android:layout_marginTop="60dp"
-                android:src="@drawable/kirim" />
+                android:layout_marginTop="40dp"
+                android:background="@drawable/bg_button"
+                android:fontFamily="@font/arialroundedmtbold"
+                android:text="Kirim"
+                android:textColor="#ffff"
+                app:backgroundTint="#133C55" />
+
         </LinearLayout>
+        <TextView
+            android:id="@+id/slogan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/btn_kirim"
+            android:layout_marginTop="100dp"
+            android:fontFamily="@font/arialroundedmtbold"
+            android:gravity="center_horizontal"
+            android:text="“Let's Have Fun Among the Skies”"
+            android:textAlignment="center"
+            android:textColor="@color/teal_200"
+            android:textSize="25dp" />
+
 
     </LinearLayout>
 </LinearLayout>

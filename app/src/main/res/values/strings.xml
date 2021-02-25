@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">Travel_app</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="MalioboroSiang">
+        Malioboro memang tempat yang ramai dengan turis dan pedagang di sore dan malam hari.
+        Tapi di pagi hari, suasananya jauh berbeda.
+        Di waktu tersebut, Anda bisa melihat wajah Jogja dari sisi yang berbeda.
+        Warga lokal bersepeda, para siswa bersiap untuk sekolah serta penjaja sarapan di sepanjang jalan yang sepi.
+        Udara yang masih segar dan dingin membuat suasana pagi di Malioboro jauh lebih asri ketimbang di saat ramai pada sore hari,
+        ditambah dengan pemandangan Merapi nun jauh di utara.
+    </string>
+    <string name="MalioboroMalam">
+        Yang lebih asyik lagi jika Anda berkunjung ke Malioboro di malam hari,
+        suasana bersahabat dengan lampu-lampu yang indah dari berbagai warung lesehan khas Malioboro
+        dan ditemani suara pentas para seniman jalanan menjadi keindahan tersendiri dan cukup romantis.
+        Banyak sekali kuliner di Malioboro yang bisa Anda coba, asal perutnya bisa menampung saja.
+        Yang menjadi favorit saat wisata malam di Malioboro adalah gudeg ayam goreng Bu Sastro.
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

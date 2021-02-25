@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -15,32 +16,39 @@
         android:layout_marginBottom="30dp"
         android:background="@drawable/icon_terimakasih" />
 
-    <LinearLayout
-        android:layout_width="match_parent"
+
+    <TextView
+        android:id="@+id/text_view_result"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_margin="30dp"
-        android:orientation="vertical">
+        android:layout_gravity="center"
+        android:fontFamily="@font/arialroundedmtbold"
+        android:gravity="center_horizontal"
+        android:text=""
+        android:textColor="#133C55"
+        android:textSize="25sp" />
 
 
-        <TextView
-            android:id="@+id/txtkomentar"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center"
-            android:fontFamily="@font/arialrounded"
-            android:text=""
-            android:textColor="#133C55"
-            android:textSize="25sp"
-            android:gravity="center_horizontal" />
+    <Button
+        android:id="@+id/btn_edit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/text_view_result"
+        android:layout_gravity="center"
+        android:layout_marginTop="100dp"
+        app:background="@drawable/bg_button"
+        android:fontFamily="@font/arialroundedmtbold"
+        android:text="Edit Komentar"
+        android:textColor="#ffff"
+        app:backgroundTint="#133C55" />
 
-        <ImageView
-            android:id="@+id/imgCp"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center"
-            android:layout_marginTop="150dp"
-            android:layout_marginBottom="30dp"
-            android:background="@drawable/cp" />
+    <ImageView
+        android:id="@+id/imgCp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="60dp"
+        android:layout_marginBottom="30dp"
+        android:background="@drawable/cp" />
 
-    </LinearLayout>
 </LinearLayout>

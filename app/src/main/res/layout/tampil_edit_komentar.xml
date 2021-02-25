@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E7ECEF"
+    android:gravity="center">
+
+    <ImageView
+        android:id="@+id/logoheha"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/logoheha" />
+
+    <EditText
+        android:id="@+id/edtkomentar2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="45dp"
+        android:layout_below="@id/logoheha"
+        android:ems="10"
+        android:fontFamily="@font/arialroundedmtbold"
+        android:gravity="center"
+        android:inputType="textMultiLine"
+        android:textColor="#133C55"
+        android:textSize="25sp" />
+
+    <Button
+        android:id="@+id/btn_savekomentar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/edtkomentar2"
+        android:layout_centerHorizontal="true"
+        android:backgroundTint="#133C55"
+        android:fontFamily="@font/arialroundedmtbold"
+        android:text="Simpan Komentar" />
+
+    <TextView
+        android:id="@+id/slogan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btn_savekomentar"
+        android:layout_marginTop="100dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:fontFamily="@font/arialroundedmtbold"
+        android:gravity="center_horizontal"
+        android:text=" “Let's Have Fun Among the Skies” "
+        android:textAlignment="center"
+        android:textColor="@color/teal_200"
+        android:textSize="25dp" />
+
+</RelativeLayout>
