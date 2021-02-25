@@ -2,6 +2,8 @@
 
 <img align="center" src="https://github.com/memorezasabana/IntentResult-Fragment_TravelApp/blob/master/Asset_IntentRes_Fragment/Video.gif">
 
+### ---
+
 ### 𝗜𝗡𝗧𝗘𝗡𝗧 𝗥𝗘𝗦𝗨𝗟𝗧
 
 | 𝗠𝗔𝗧𝗘𝗥𝗜 | 𝗣𝗘𝗡𝗝𝗘𝗟𝗔𝗦𝗔𝗡 |
@@ -22,6 +24,8 @@
 
 𝗼 Halaman Tampil Komentar
 > <img align="center" src="https://github.com/memorezasabana/IntentResult-Fragment_TravelApp/blob/master/Asset_IntentRes_Fragment/4.png"> 
+
+### ---
 
 
 ### 𝗙𝗥𝗔𝗚𝗠𝗘𝗡𝗧
